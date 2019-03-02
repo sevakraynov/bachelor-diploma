@@ -1,0 +1,8 @@
+.vscode
+*.aux
+*.fls
+*.fdb*
+*.synctex.gz
+*.toc
+*.log
+*.out
